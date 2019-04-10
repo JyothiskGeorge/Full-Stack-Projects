@@ -1,0 +1,5 @@
+a="Hellon"
+for i in "hellom":
+	
+	print a[:-1]
+		
